@@ -1,6 +1,6 @@
 'use strict';
 
-let __API_URL__ = https://lab-08-backend-jjp.herokuapp.com;
+let __API_URL__ = 'https://lab-08-backend-jjp.herokuapp.com';
 
 
 $('#search-form').on('submit', fetchCityData);
